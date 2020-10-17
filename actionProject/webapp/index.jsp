@@ -7,8 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-	<h1>Hello</h1>
+	
+	<h2>1. EL 기본 구문</h2>
+	<a href="el.do">01_EL</a>
 
 </body>
 </html>
